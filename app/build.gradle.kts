@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "scisrc.mobiledev.firstuiassignment"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "scisrc.mobiledev.firstuiassignment"
